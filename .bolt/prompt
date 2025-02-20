@@ -5,3 +5,5 @@ By default, this template supports React, MUI, and Vite.
 Use icons from @mui/icons-material.
 
 Do not update the package.json file unless absolutely necessary.
+Do not update anything under the src/theme folder unless absolutely necessary.
+Try to reuse colors and styles across the app wherever possible.
