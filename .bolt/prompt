@@ -4,6 +4,9 @@ By default, this template supports React, MUI, and Vite.
 
 Use icons from @mui/icons-material.
 
+ALWAYS default to dark mode.
+Use a src/components/Navbar.jsx file for the navbar.
+Use a src/components/Sidebar.jsx file for the sidebar.
 Do not update the package.json file unless absolutely necessary.
 If you need to update the package.json file, make sure to not remove any existing dependencies.
 Do not update anything under the src/theme folder unless absolutely necessary.
